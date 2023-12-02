@@ -34,7 +34,7 @@ In creating the dashboard, some data were selected to aid the understandng of th
   
 - A slicer was added to the dashboard to help in filtering the subscribed/target clients. When filter is selected as 'yes" or "no", data can be compared across the dashboard and an insight into a summary/update of the success of the campaign projects can be visualised.
 
-#### Please find below the dashboard created. Feel free to interact with dashboard here ()
+#### Please find below the dashboard created. Feel free to interact with dashboard here (https://github.com/SeunA88/Early-steps-with-Power-BI-Dashboard-and-DAX/blob/main/Task%203.pbix)
 
 #### Representing all data.
 

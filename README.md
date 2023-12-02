@@ -5,6 +5,7 @@
 ---
 
 ## Introduction
+
 Data visualization is an important aspect in Power BI that enhances understanding of data, communication of insights, and decision-making based on generated insights; by representing data graphically in visually appealing and easily understandable manner. 
 
 In this task, an interactive dashboard by combining multiple visualizations with each telling its own story. The data used for this dashboard creation is Bank deposit dataset(). It basically contains information about bank depositors/clients such as name, age, marital status, age, credit history, loan history as well as other inportant information. Also, the  data details the diffrent bank campaigns carried alongside their outcomes with each depositors/clients.
@@ -29,7 +30,7 @@ In creating the dashboard, some data were selected to aid the understandng of th
 
 ---
 
-In the following task, Data Analysis Expressions (DAX), which is designed to perform calculations, create custom measures, and manipulate data, was used to perform the following calculations from the same data ().
+#### In the following task, Data Analysis Expressions (DAX), which is designed to perform calculations, create custom measures, and manipulate data, was used to perform the following calculations from the same data ().
 
 1). A measure for the ‘Average age of depositors’
 
@@ -44,9 +45,12 @@ In the following task, Data Analysis Expressions (DAX), which is designed to per
     
 4). A measure to get the number of depositors on Loan
 
-#### The following DAX was used to answer the questiona above.
+
+#### The following DAX was used to answer the questions above.
 
 - Average age of depositors = AVERAGE('bank-full'[Age])
+
+- Age Band = IF('bank-full'[Age]<30, "Young", IF('bank-full'[Age] < 50, "Mid age", IF('bank-full'[Age]>50, "Old")))
   
 - Total Balance (Technician) = CALCULATE(SUM('bank-full'[Balance]),'bank-full'[Job]="technician")
  
@@ -61,8 +65,11 @@ In the following task, Data Analysis Expressions (DAX), which is designed to per
 - Total Balance (Single and Married) = CALCULATE(SUM('bank-full'[Balance]),('bank-full'[Marital status] = "single") + ('bank-full'[Marital status] = "married"))
 
 - Number of Depositors on loan = CALCULATE(COUNT('bank-full'[Loan]), 'bank-full'[Loan] = "yes")
+  
 
   #### The results of each calculation is shown in the Report view below:
+
+  ![](1a.png)
 
   ![](Task4_reportview.png)
 

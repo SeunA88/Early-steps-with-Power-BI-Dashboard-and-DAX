@@ -1,6 +1,6 @@
 # Early Steps with Power BI - Dashboard and DAX
 
-![](dax.png)
+![](dax.jpg)
 
 ---
 
@@ -18,25 +18,41 @@ In creating the dashboard, some data were selected to aid the understandng of th
   
 - Average yearly balance of the bank clients/depositors: This gives an insight into the average yearly balance of the bank depositors and can also be used to narrow down campaign focus to prospective clients. From the data, it can be seen that $1,362 is the average yearly balance of the bank depositors.
   
-- Total number of subscribed/target clients : An insight into how many of the clients/ depositors subscribed to the term deposits after campaigns, and also which clients havent subscribed but are still potential targets.
+- Total number of subscribed/target clients : An insight into how many of the clients/ depositors subscribed to the term deposits after campaigns is seen here, and also which clients haven't subscribed but are still targets/potential subscribers. A total 45,211 clients were found.
+    
+- Total campaign by job type: This gives an insight into the job type that had the highest total number of campaigns. It can be seen that blue-collar, management and technician jobs topped the chart in the campaigns.
   
-- Total campaign by job type: 
-- Total number of poutcome by education
-- Total number of subscribed/target clients by credit in default
-- Total number of subscribed/target clients by marital status
-- Total number of subscribed/target clients by campaign and
-- Average balance by subscribed/target clients
+- Total number of poutcome by education: This gives an insight into the Education level of depositors based on previous campaign outcomes. It shows the focus of the previous campaign on majorly secondary school level, followed by Tertiary level.  Depending on these outcomes and targets, campaigns can be tailored towards whatever level of education can give the desired outcome.
+  
+- Total number of subscribed/target clients by credit in default: This gives an insight into the percentage of depositors with credit in default. Over 95% of depositors do not have a credit in default.
+  
+- Total number of subscribed/target clients by marital status: This gives an insight into the marital status of the depositors, About 60% of the depositors are married, about 27% are single while abut 12 % are divorced.
+  
+- Total number of subscribed/target clients by campaign: What are the outcomes of the campaiggn based on client subscription? how many campaigns before the client subscribed for term deposit? These insights can be drawn from this visual.
+  
+- Average balance by subscribed/target clients: From this visual, it can be seen tha about 72% of clients haven,t subscribed to the term deposit yet, also depositors that have subscribed to the term deposit have an average yearly balance of about $1,804.
+  
 - A slicer was added to the dashboard to help in filtering the subscribed/target clients. When filter is selected as 'yes" or "no", data can be compared across the dashboard and an insight into a summary/update of the success of the campaign projects can be visualised.
 
-#### Please find below the dashboard created.
+#### Please find below the dashboard created. Feel free to interact with dashboard here ()
+
 #### Representing all data.
+
 ![](Task3_dashboard.png)
 
-#### Filtered to only Bank term deopsit Subscribed clients
+---
+
+#### Filtered to only Bank term deposit Subscribed clients
+
 ![](c.png)
 
+---
+
 #### Filtered to only clients who haven't subscribed yet
+
 ![](d.png)
+
+---
 
 ---
 

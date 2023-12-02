@@ -1,6 +1,6 @@
 # Early Steps with Power BI - Dashboard and DAX
 
-![](dax.jpg)
+![](dax1.png)
 
 ---
 

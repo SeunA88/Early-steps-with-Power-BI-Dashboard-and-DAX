@@ -23,7 +23,7 @@ In creating the dashboard, some data were selected to aid the understandng of th
 - Total number of subscribed/target clients by campaign and
 - Average balance by subscribed/target clients
 
-Please find below the dashboard created.
+#### Please find below the dashboard created.
 
 ![](Task3_dashboard.png)
 
@@ -32,13 +32,16 @@ Please find below the dashboard created.
 In the following task, Data Analysis Expressions (DAX), which is designed to perform calculations, create custom measures, and manipulate data, was used to perform the following calculations from the same data ().
 
 1). A measure for the ‘Average age of depositors’
+
 2). A new column named ‘Age band’ containing the following;
     ‘Young’ for ages below 30
      ‘Mid-aged’ for ages between 30 and 50
      ‘Old’ for ages above 50
+     
 3). A measure calculating the total balance for:
     Job: Technician
     Marital: Single and Married
+    
 4). A measure to get the number of depositors on Loan
 
 #### The following DAX was used to answer the questiona above.
@@ -59,7 +62,7 @@ In the following task, Data Analysis Expressions (DAX), which is designed to per
 
 - Number of Depositors on loan = CALCULATE(COUNT('bank-full'[Loan]), 'bank-full'[Loan] = "yes")
 
-  The results of each calculation is shown in the Report view below:
+  #### The results of each calculation is shown in the Report view below:
 
   ![](Task4_reportview.png)
 

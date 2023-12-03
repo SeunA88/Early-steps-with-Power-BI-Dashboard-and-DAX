@@ -102,5 +102,5 @@ In creating the dashboard, some data were selected to aid understandng and to br
   ---
 
 ## Conclusion
-In the two tasks above, Data visulaization tools and DAX were used to communicate insights that can be useful in targeting and focussiing on specific client types and campaigns that can help in maximizing the number of prospective clients to sign up for term deposits with the bank.
+In the two tasks above, Data visulaization tools and DAX were used to communicate insights that can be useful in targeting and focusing on specific client types and campaigns that can help in maximizing the number of prospective clients to sign up for term deposits with the bank.
 

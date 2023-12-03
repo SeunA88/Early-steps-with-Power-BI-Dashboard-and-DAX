@@ -22,11 +22,11 @@ In creating the dashboard, some data were selected to aid understandng and to br
     
 - Total campaign by job type: This gives an insight into the job type that had the highest total number of campaigns. It can be seen that blue-collar, management and technician jobs topped the chart in the campaigns.
   
-- Total number of poutcome by education: This gives an insight into the Education level of depositors based on previous campaign outcomes. It shows the focus of the previous campaign on majorly secondary school level, followed by Tertiary level.  Depending on these outcomes and targets, campaigns can be tailored towards whatever level of education can give the desired outcome.
+- Total number of poutcome by education: This gives an insight into the Education level of depositors based on previous campaign outcomes. It shows the focus of the previous campaign was majorly on secondary school level, followed by Tertiary level.  Depending on these outcomes and targets, campaigns can be tailored towards whatever level of education can give the desired outcome.
   
 - Total number of subscribed/target clients by credit in default: This gives an insight into the percentage of depositors with credit in default. Over 95% of depositors do not have a credit in default.
   
-- Total number of subscribed/target clients by marital status: This gives an insight into the marital status of the depositors, About 60% of the depositors are married, about 27% are single while abut 12 % are divorced.
+- Total number of subscribed/target clients by marital status: This gives an insight into the marital status of the depositors. About 60% of the depositors are married, about 27% are single while about 12 % are divorced.
   
 - Total number of subscribed/target clients by campaign: What are the outcomes of the campaiggn based on client subscription? how many campaigns before the client subscribed for term deposit? These insights can be drawn from this visual.
   

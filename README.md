@@ -28,9 +28,9 @@ In creating the dashboard, some data were selected to aid understandng and to br
   
 - Total number of subscribed/target clients by marital status: This gives an insight into the marital status of the depositors. About 60% of the depositors are married, about 27% are single while about 12 % are divorced.
   
-- Total number of subscribed/target clients by campaign: What are the outcomes of the campaiggn based on client subscription? how many campaigns before the client subscribed for term deposit? These insights can be drawn from this visual.
+- Total number of subscribed/target clients by campaign: What are the outcomes of the campaign based on client subscription? How many campaigns were carried out before the client subscribed for term deposit? These insights can be drawn from this visual.
   
-- Average balance by subscribed/target clients: From this visual, it can be seen tha about 72% of clients haven,t subscribed to the term deposit yet, also depositors that have subscribed to the term deposit have an average yearly balance of about $1,804.
+- Average balance by subscribed/target clients: From this visual, it can be seen that about 72% of clients haven't subscribed to the term deposit yet, also depositors that have subscribed to the term deposit have an average yearly balance of about $1,804.
   
 - A slicer was added to the dashboard to help in filtering the subscribed/target clients. When filter is selected as 'yes" or "no", data can be compared across the dashboard and an insight into a summary/update of the success of the campaign projects can be visualised.
 

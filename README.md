@@ -12,7 +12,7 @@ In this task, an interactive dashboard was created by combining multiple visuali
 
 ## Creating the Dashboard
 
-In creating the dashboard, some data were selected to aid the understandng of the data and to bring out some insights from the data. The following data were focussed on and visualised in the dashboard. 
+In creating the dashboard, some data were selected to aid understandng and to bring out some insights from the data. The following data were focussed on and visualised in the dashboard. 
 
 - Average age of the bank clients/depositors: This gives an insight into the average age of depositors at the bank and informed decisions can be made as to what age range can be focussed on when campaigning to clients about new bank term deposits. From the data, it can be seen that 41 years is the average age of the bank depositors.
   

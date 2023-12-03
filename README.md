@@ -8,7 +8,7 @@
 
 Data visualization is an important aspect in Power BI that enhances understanding of data, communication of insights, and decision-making based on generated insights; by representing data graphically in visually appealing and easily understandable manner. 
 
-In this task, an interactive dashboard was created by combining multiple visualizations with each telling its own story. The data used for this dashboard creation is Bank deposit dataset(https://github.com/SeunA88/Early-steps-with-Power-BI-Dashboard-and-DAX/blob/main/bank-full.csv). It basically contains information about bank depositors/clients such as name, age, marital status, age, credit history, loan history as well as other inportant information. Also, the  data details the diffrent bank campaigns carried alongside their outcomes with each depositors/clients.
+In this task, an interactive dashboard was created by combining multiple visualizations with each telling its own story. The data used for this dashboard creation is Bank deposit dataset(https://github.com/SeunA88/Early-steps-with-Power-BI-Dashboard-and-DAX/blob/main/bank-full.csv). It basically contains information about bank depositors/clients such as name, age, marital status, age, credit history, loan history as well as other important information. Also, the  data details the different bank campaigns carried out alongside their outcomes with each depositors/clients.
 
 ## Creating the Dashboard
 

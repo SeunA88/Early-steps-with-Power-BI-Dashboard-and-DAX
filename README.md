@@ -61,15 +61,15 @@ In creating the dashboard, some data were selected to aid understandng and to br
 1). A measure for the ‘Average age of depositors’
 
 2). A new column named ‘Age band’ containing the following;
-    ‘Young’ for ages below 30
-     ‘Mid-aged’ for ages between 30 and 50
-     ‘Old’ for ages above 50
+- ‘Young’ for ages below 30
+- ‘Mid-aged’ for ages between 30 and 50
+- ‘Old’ for ages above 50
      
 3). A measure calculating the total balance for:
-    Job: Technician
-    Marital: Single and Married
+- Job: Technician
+- Marital: Single and Married
     
-4). A measure to get the number of depositors on Loan
+4). A measure to get the number of depositors on Loan.
 
 
 #### The following DAX was used to answer the questions above.
